@@ -20,4 +20,5 @@ no_index:
 requires:
   Finance::Quote: 1.18
   Test::More: 0
-version: 0.01
+  parent: 0
+version: 0.02

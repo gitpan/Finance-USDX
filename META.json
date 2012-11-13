@@ -33,10 +33,11 @@
       "runtime" : {
          "requires" : {
             "Finance::Quote" : "1.18",
-            "Test::More" : "0"
+            "Test::More" : "0",
+            "parent" : "0"
          }
       }
    },
    "release_status" : "stable",
-   "version" : "0.01"
+   "version" : "0.02"
 }
