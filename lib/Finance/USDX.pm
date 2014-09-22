@@ -1,5 +1,5 @@
 package Finance::USDX;
-
+$Finance::USDX::VERSION = '0.03';
 use parent 'Exporter';
 our @EXPORT = ('usdx');
 
@@ -14,15 +14,6 @@ use Finance::Quote;
 =head1 NAME
 
 Finance::USDX - Compute USDX (US Dollar Index)
-
-=head1 VERSION
-
-Version 0.02
-
-=cut
-
-our $VERSION = '0.02';
-
 
 =head1 SYNOPSIS
 
